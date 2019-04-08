@@ -1,0 +1,18 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.exe.config
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.exe
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.pdb
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.exe
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.pdb
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.Form1.resources
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.Properties.Resources.resources
+C:\Users\Gökay\Desktop\Yeni klasör (3)\Yeni klasör\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csproj.GenerateResource.Cache
